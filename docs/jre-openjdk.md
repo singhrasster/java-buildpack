@@ -6,10 +6,10 @@ The OpenJDK JRE provides Java runtimes from the [OpenJDK][openjdk] project.  Ver
 
 <table>
   <tr>
-    <td><strong>Detection Criterion:</strong></td><td>Unconditional</td>
+    <td><strong>Detection Criterion</strong></td><td>Unconditional</td>
   </tr>
   <tr>
-    <td><strong>Tags:</strong></td><td><tt>openjdk-&lang;version&rang;</tt></td>
+    <td><strong>Tags</strong></td><td><tt>openjdk-&lang;version&rang;</tt></td>
   </tr>
 </table>
 Tags are printed to standard output by the buildpack detect script

@@ -6,7 +6,7 @@ The `JAVA_OPTS` Framework contributes arbitrary Java options to the application 
     <td><strong>Detection Criterion</strong></td><td><ptt>java_opts</tt> set</td>
   </tr>
   <tr>
-    <td><strong>Tags</strong></td><td>`java-opts`</td>
+    <td><strong>Tags</strong></td><td><tt>java-opts</tt></td>
   </tr>
 </table>
 Tags are printed to standard output by the buildpack detect script
