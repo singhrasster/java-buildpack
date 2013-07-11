@@ -19,6 +19,6 @@
 <Context allowLinking='true'>
 
 <Valve className="com.radiadesign.catalina.session.RedisSessionHandlerValve" />
-<Manager className="com.radiadesign.catalina.session.RedisSessionManager" host="localhost" port="6379" database="0" maxInactiveInterval="60" />
+<Manager className="com.radiadesign.catalina.session.RedisSessionManager" host="pub-redis-16270.us-east-1-3.2.ec2.garantiadata.com" port="16270" password="0kSqb1DFhykI8Bxv" database="rediscloud-a5552" maxInactiveInterval="60" />
 
 </Context>
